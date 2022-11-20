@@ -55,7 +55,7 @@ async function guarda(evt) {
       malestar,
       fechacita 
     };
-    await daoRegistro.
+    await daoRegistro
       add(modelo);
     muestraRegistro();
   } catch (e) {
