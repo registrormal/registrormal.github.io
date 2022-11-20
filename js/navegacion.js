@@ -1,7 +1,7 @@
 export function
   muestraRegistro() {
   location.href =
-    "registro.html";
+    "registros.html";
 }
 
 export function
